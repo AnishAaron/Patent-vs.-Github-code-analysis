@@ -1,0 +1,6 @@
+{
+  "name": "(Bulk Patent) GitHub Code vs. Patent Analysis (Multiple Repos)",
+  "description": "An interactive chat application to first analyze a patent claim, then analyze files from a public GitHub repository for potential overlaps and other inquiries, powered by the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
